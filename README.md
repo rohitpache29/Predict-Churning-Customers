@@ -1,6 +1,6 @@
 # Predict Churning Customers
 
-![Project Logo](![Churn](https://github.com/rohitpache29/Predict-Churning-Customers/assets/101274188/0de570aa-2acb-4a86-9fd9-b2fe5a4fe4eb)) <!-- Replace with your project logo -->
+![Churn png](https://github.com/rohitpache29/Predict-Churning-Customers/assets/101274188/a30cc2d2-802b-472d-b514-02f63d58ffb6) <!-- Replace with your project logo -->
 
 Predict Churning Customers is a machine learning project that focuses on predicting customer churn in a business context. By identifying potential churners, businesses can take proactive measures to retain those customers.
 
